@@ -11,7 +11,7 @@ import static io.restassured.RestAssured.*;
 import static org.hamcrest.Matchers.*;
 
 public class JIraTests {
-
+//nimitha updating git ........
     // https://docs.atlassian.com/software/jira/docs/api/REST/8.21.1/#issue-getIssue
 
     public static void main(String args[]){
